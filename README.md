@@ -1,5 +1,5 @@
-=***HOMEWORK
--:
+***HOMEWORK
+:-
 *Why we need to use OOP ? Some major OOP languages ?
 *Interface vs Abstract class ?
 *Why wee need equals and hashcode ? When to override ?
@@ -14,5 +14,5 @@
 *How to summarize ‘clean code’ as short as possible ?
 *What is the method of hiding in Java ?
 *What is the difference between abstraction and polymorphism in Java ?
--:
+:-
 **Gulnisa Aslan
